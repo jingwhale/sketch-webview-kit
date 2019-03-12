@@ -1,6 +1,10 @@
 # sketch-webview-kit
 
-_This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
+_This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [sketch-webview-kit Readme](https://www.yuque.com/jingwhale/blog/rt5aci)._
+
+
+## Demo
+![examples-styleguide-palette](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397733159-b8ac6ca0-5315-42a2-a3dc-6fb49b1a4d8d.png)
 
 ## Usage
 
