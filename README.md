@@ -4,7 +4,7 @@ _This plugin was created using `skpm`. For a detailed explanation on how things 
 
 
 ## Demo
-![examples-styleguide-palette](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397733159-b8ac6ca0-5315-42a2-a3dc-6fb49b1a4d8d.png)
+![examples-styleguide-palette](https://cdn.nlark.com/yuque/0/2019/png/120638/1552397733159-b8ac6ca0-5315-42a2-a3dc-6fb49b1a4d8d.png?x-oss-process=image/resize,w_1492)
 
 ## Usage
 
