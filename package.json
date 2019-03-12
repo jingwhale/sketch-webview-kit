@@ -21,5 +21,8 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.11"
   },
-  "author": "whaleExplorer <whaleExplorer@gmail.com>"
+  "author": "whaleExplorer <whaleExplorer@gmail.com>",
+  "dependencies": {
+    "sketch-module-web-view": "^2.1.7"
+  }
 }

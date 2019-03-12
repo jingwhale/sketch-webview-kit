@@ -16,7 +16,9 @@ win.on('closed', () => {
 // // Load a remote URL
 // win.loadURL('https://github.com')
 
+// // Load a localhost URL
 // const Panel = `http://localhost:8000#${Math.random()}`;
 // win.loadURL(Panel)
 
+// // Load a dist
 win.loadURL(require('./dist/index.html'))
