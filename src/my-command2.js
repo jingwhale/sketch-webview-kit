@@ -17,7 +17,7 @@ win.on('closed', () => {
 // win.loadURL('https://github.com')
 
 // Load a localhost URL
-const Panel = `http://localhost:8000#${Math.random()}`;
+const Panel = `http://localhost:8000/pagelayout.html#${Math.random()}`;
 win.loadURL(Panel)
 
 // // Load a dist

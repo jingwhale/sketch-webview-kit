@@ -4,6 +4,7 @@ export default {
   treeShaking: true,
   outputPath:'../src/dist',
   exportStatic: {
+    htmlSuffix: true,
     dynamicRoot: true
   },
   plugins: [
