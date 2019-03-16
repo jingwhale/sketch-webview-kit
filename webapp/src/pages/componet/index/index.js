@@ -24,14 +24,14 @@ export default class IndexUI extends PureComponent {
 
     //监听plugin,更新UI
     window.someGlobalFunctionDefinedInTheWebview = function(arg) {
-      console.log('from plugin---'+arg)
+      console.log(arg)
       that.setState({
-        date: arg
+        date: arg.type
       });
     };
 
     //主动向plugin获取数据
-    if (window.data === undefined) {
+    if (!date) {
       window.postMessage('getData');
     }
 
