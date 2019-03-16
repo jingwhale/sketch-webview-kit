@@ -38,7 +38,7 @@ export default class IndexUI extends PureComponent {
     return (
       <div>
           <div className={styles.title}>title</div>
-          <Button onClick={this.onClick}>{date}</Button>
+          <Button type="primary" onClick={this.onClick}>{date}</Button>
       </div>
     );
   }
