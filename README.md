@@ -1,6 +1,6 @@
 # sketch-webview-kit
 
-_This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [sketch-webview-kit Readme](https://www.yuque.com/jingwhale/blog/rt5aci)._
+_This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [sketch-webview-kit Readme](https://www.yuque.com/jingwhale/tool/qiu8hv)._
 
 
 ## Demo
