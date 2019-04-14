@@ -1,5 +1,7 @@
 # sketch-webview-kit
 
+![version](https://img.shields.io/badge/release-0.1.0-brightgreen.svg)
+
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [sketch-webview-kit Readme](https://www.yuque.com/jingwhale/tool/qiu8hv)._
 
 
